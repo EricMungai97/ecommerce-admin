@@ -81,4 +81,4 @@ export const StoreModal = () => {
       </div>
     </Modal>
   );
-};8
+};
